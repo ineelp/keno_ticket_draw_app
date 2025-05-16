@@ -8,6 +8,9 @@ To understand the color combination used for highlighing the selected numbers an
 - If the number is selected but not matched, it gets a blue background and no border.
 - If the number is neither selected nor matched, it gets a grey background and no border (aka as-is).
 
+## Preview
+
+https://github.com/user-attachments/assets/4cc73a71-ea68-4d43-a7e6-3297f48af484
 
 ## Flutter Requirements
 
